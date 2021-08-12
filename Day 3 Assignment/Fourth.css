@@ -1,0 +1,68 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.one
+{
+    height: 400px;
+    width:100%;
+    background-color:green;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.one_child
+{
+    height: 400px;
+    width:300px;
+    background-color:yellow;
+    
+    
+}
+
+.two_child
+{
+    height: 400px;
+    width:300px;
+    background-color:yellow;
+    
+}
+
+.three_child
+{
+    height: 400px;
+    width:300px;
+    background-color:yellow;
+    
+}
+
+.smile
+{
+    height: 400px;
+    width:100%;
+    background-color:blue;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.smile_child
+{
+    height: 400px;
+    width:300px;
+    background-color:aqua;
+}
+
+.smile_child1
+{
+    height: 400px;
+    width:300px;
+    background-color:aqua;
+}
+
+.smile_child2
+{
+    height: 400px;
+    width:300px;
+    background-color:aqua;
+}
